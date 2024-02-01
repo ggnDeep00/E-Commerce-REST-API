@@ -1,0 +1,308 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "assignment ",
+    "dateExported": "2024-02-01T14:23:18.814Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "39983f35-564c-4b47-beec-b965e5fae755",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/65bb95bb66cca661dba02ff9",
+            "url": "http://localhost:3000/products/65bb95bb66cca661dba02ff9",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-02-01T13:00:51.527Z",
+            "modified": "2024-02-01T13:00:51.527Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"name\": \"Smart phone\",\r\n  \"description\": \"Samsung\",\r\n  \"price\": 1999,\r\n  \"variants\": [\r\n    {\r\n      \"name\": \"Variant 1\",\r\n      \"sku\": \"SKU123\",\r\n      \"additionalCost\": 5.00,\r\n      \"stockCount\": 50\r\n    },\r\n    {\r\n      \"name\": \"Variant 2\",\r\n      \"sku\": \"SKU456\",\r\n      \"additionalCost\": 7.50,\r\n      \"stockCount\": 30\r\n    }\r\n  ]\r\n}\r\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "59bdb474-3c1f-4f79-90a9-342ee3703f88",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/",
+            "url": "http://localhost:3000/products/",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-02-01T13:00:59.382Z",
+            "modified": "2024-02-01T13:00:59.382Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"name\": \"Smart phone\",\r\n  \"description\": \"Samsung\",\r\n  \"price\": 1999,\r\n  \"variants\": [\r\n    {\r\n      \"name\": \"Variant 1\",\r\n      \"sku\": \"SKU123\",\r\n      \"additionalCost\": 5.00,\r\n      \"stockCount\": 50\r\n    },\r\n    {\r\n      \"name\": \"Variant 2\",\r\n      \"sku\": \"SKU456\",\r\n      \"additionalCost\": 7.50,\r\n      \"stockCount\": 30\r\n    }\r\n  ]\r\n}\r\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "fd1f41cc-18a1-495d-b6fd-743dd6a43a7b",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/",
+            "url": "http://localhost:3000/products/",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2024-02-01T13:01:12.234Z",
+            "modified": "2024-02-01T13:01:12.234Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"name\": \"Smart phone\",\r\n  \"description\": \"Samsung\",\r\n  \"price\": 1999,\r\n  \"variants\": [\r\n    {\r\n      \"name\": \"Variant 1\",\r\n      \"sku\": \"SKU123\",\r\n      \"additionalCost\": 5.00,\r\n      \"stockCount\": 50\r\n    },\r\n    {\r\n      \"name\": \"Variant 2\",\r\n      \"sku\": \"SKU456\",\r\n      \"additionalCost\": 7.50,\r\n      \"stockCount\": 30\r\n    }\r\n  ]\r\n}\r\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "76126efa-6cc7-4d0e-9ed8-4dc854f9c21a",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/",
+            "url": "http://localhost:3000/products/",
+            "method": "POST",
+            "sortNum": 40000,
+            "created": "2024-02-01T13:03:58.886Z",
+            "modified": "2024-02-01T13:03:58.886Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"name\": \"HP Spectre x360\",\r\n  \"description\": \"Convertible laptop with Intel Core i5 processor\",\r\n  \"price\": 1299.99,\r\n  \"variants\": [\r\n    {\r\n      \"name\": \"8GB RAM, 256GB SSD\",\r\n      \"sku\": \"SpectreX360-8GB256GB\",\r\n      \"additionalCost\": 0,\r\n      \"stockCount\": 70\r\n    },\r\n    {\r\n      \"name\": \"16GB RAM, 512GB SSD\",\r\n      \"sku\": \"SpectreX360-16GB512GB\",\r\n      \"additionalCost\": 200,\r\n      \"stockCount\": 55\r\n    }\r\n  ]\r\n}\r\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "bb58a33a-8ce1-4007-a162-042545ad74a7",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/65bb95bb66cca661dba02ff9",
+            "url": "http://localhost:3000/products/65bb95bb66cca661dba02ff9",
+            "method": "GET",
+            "sortNum": 50000,
+            "created": "2024-02-01T13:04:05.721Z",
+            "modified": "2024-02-01T13:04:05.721Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"name\": \"Smart phone\",\r\n  \"description\": \"Samsung\",\r\n  \"price\": 1999,\r\n  \"variants\": [\r\n    {\r\n      \"name\": \"Variant 1\",\r\n      \"sku\": \"SKU123\",\r\n      \"additionalCost\": 5.00,\r\n      \"stockCount\": 50\r\n    },\r\n    {\r\n      \"name\": \"Variant 2\",\r\n      \"sku\": \"SKU456\",\r\n      \"additionalCost\": 7.50,\r\n      \"stockCount\": 30\r\n    }\r\n  ]\r\n}\r\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "d31b28e1-0ba6-40a3-88dc-780c2fac7194",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/",
+            "url": "http://localhost:3000/products/",
+            "method": "GET",
+            "sortNum": 60000,
+            "created": "2024-02-01T13:04:11.980Z",
+            "modified": "2024-02-01T13:04:11.980Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"name\": \"Smart phone\",\r\n  \"description\": \"Samsung\",\r\n  \"price\": 1999,\r\n  \"variants\": [\r\n    {\r\n      \"name\": \"Variant 1\",\r\n      \"sku\": \"SKU123\",\r\n      \"additionalCost\": 5.00,\r\n      \"stockCount\": 50\r\n    },\r\n    {\r\n      \"name\": \"Variant 2\",\r\n      \"sku\": \"SKU456\",\r\n      \"additionalCost\": 7.50,\r\n      \"stockCount\": 30\r\n    }\r\n  ]\r\n}\r\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "a8fd616c-ddec-4e89-95b0-34c1e79a2c05",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products",
+            "url": "http://localhost:3000/products",
+            "method": "GET",
+            "sortNum": 70000,
+            "created": "2024-02-01T13:04:18.941Z",
+            "modified": "2024-02-01T13:04:18.941Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "b105a672-74c7-4bae-b723-125fbf72f572",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/",
+            "url": "http://localhost:3000/products/",
+            "method": "POST",
+            "sortNum": 80000,
+            "created": "2024-02-01T13:04:25.972Z",
+            "modified": "2024-02-01T13:04:25.972Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"name\": \"HP Spectre x360\",\r\n  \"description\": \"Convertible laptop with Intel Core i5 processor\",\r\n  \"price\": 1299.99,\r\n  \"variants\": [\r\n    {\r\n      \"name\": \"8GB RAM, 256GB SSD\",\r\n      \"sku\": \"SpectreX360-8GB256GB\",\r\n      \"additionalCost\": 0,\r\n      \"stockCount\": 70\r\n    },\r\n    {\r\n      \"name\": \"16GB RAM, 512GB SSD\",\r\n      \"sku\": \"SpectreX360-16GB512GB\",\r\n      \"additionalCost\": 200,\r\n      \"stockCount\": 55\r\n    }\r\n  ]\r\n}\r\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "331614e4-d6cd-4a9d-b7a7-a423e57c0cf5",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/65bb95bb66cca661dba02ff9",
+            "url": "http://localhost:3000/products/65bb95bb66cca661dba02ff9",
+            "method": "DELETE",
+            "sortNum": 90000,
+            "created": "2024-02-01T13:05:27.474Z",
+            "modified": "2024-02-01T13:05:27.474Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"name\": \"HP Spectre x360\",\r\n  \"description\": \"Convertible laptop with Intel Core i5 processor\",\r\n  \"price\": 1299.99,\r\n  \"variants\": [\r\n    {\r\n      \"name\": \"8GB RAM, 256GB SSD\",\r\n      \"sku\": \"SpectreX360-8GB256GB\",\r\n      \"additionalCost\": 0,\r\n      \"stockCount\": 70\r\n    },\r\n    {\r\n      \"name\": \"16GB RAM, 512GB SSD\",\r\n      \"sku\": \"SpectreX360-16GB512GB\",\r\n      \"additionalCost\": 200,\r\n      \"stockCount\": 55\r\n    }\r\n  ]\r\n}\r\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "1ce62655-edc2-463d-a43b-b047dd13a927",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/65bb95bb66cca661dba02ff9",
+            "url": "http://localhost:3000/products/65bb95bb66cca661dba02ff9",
+            "method": "GET",
+            "sortNum": 100000,
+            "created": "2024-02-01T13:05:42.817Z",
+            "modified": "2024-02-01T13:05:42.817Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"name\": \"HP Spectre x360\",\r\n  \"description\": \"Convertible laptop with Intel Core i5 processor\",\r\n  \"price\": 1299.99,\r\n  \"variants\": [\r\n    {\r\n      \"name\": \"8GB RAM, 256GB SSD\",\r\n      \"sku\": \"SpectreX360-8GB256GB\",\r\n      \"additionalCost\": 0,\r\n      \"stockCount\": 70\r\n    },\r\n    {\r\n      \"name\": \"16GB RAM, 512GB SSD\",\r\n      \"sku\": \"SpectreX360-16GB512GB\",\r\n      \"additionalCost\": 200,\r\n      \"stockCount\": 55\r\n    }\r\n  ]\r\n}\r\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "f0b3350c-be33-4eae-97a8-fa96a82944e0",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/65bb967f66cca661dba03003",
+            "url": "http://localhost:3000/products/65bb967f66cca661dba03003",
+            "method": "GET",
+            "sortNum": 110000,
+            "created": "2024-02-01T13:06:09.216Z",
+            "modified": "2024-02-01T13:06:09.216Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"name\": \"HP Spectre x360\",\r\n  \"description\": \"Convertible laptop with Intel Core i5 processor\",\r\n  \"price\": 1299.99,\r\n  \"variants\": [\r\n    {\r\n      \"name\": \"8GB RAM, 256GB SSD\",\r\n      \"sku\": \"SpectreX360-8GB256GB\",\r\n      \"additionalCost\": 0,\r\n      \"stockCount\": 70\r\n    },\r\n    {\r\n      \"name\": \"16GB RAM, 512GB SSD\",\r\n      \"sku\": \"SpectreX360-16GB512GB\",\r\n      \"additionalCost\": 200,\r\n      \"stockCount\": 55\r\n    }\r\n  ]\r\n}\r\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "a281c073-23dc-4763-9a10-0a6fa4d71380",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/65bb967f66cca661dba03003",
+            "url": "http://localhost:3000/products/65bb967f66cca661dba03003",
+            "method": "DELETE",
+            "sortNum": 120000,
+            "created": "2024-02-01T13:06:30.213Z",
+            "modified": "2024-02-01T13:06:30.213Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"name\": \"HP Spectre x360\",\r\n  \"description\": \"Convertible laptop with Intel Core i5 processor\",\r\n  \"price\": 1299.99,\r\n  \"variants\": [\r\n    {\r\n      \"name\": \"8GB RAM, 256GB SSD\",\r\n      \"sku\": \"SpectreX360-8GB256GB\",\r\n      \"additionalCost\": 0,\r\n      \"stockCount\": 70\r\n    },\r\n    {\r\n      \"name\": \"16GB RAM, 512GB SSD\",\r\n      \"sku\": \"SpectreX360-16GB512GB\",\r\n      \"additionalCost\": 200,\r\n      \"stockCount\": 55\r\n    }\r\n  ]\r\n}\r\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "37bb70e7-2c2f-43c5-b3ce-fe0baa729379",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/65bb968c66cca661dba03007",
+            "url": "http://localhost:3000/products/65bb968c66cca661dba03007",
+            "method": "PUT",
+            "sortNum": 130000,
+            "created": "2024-02-01T13:10:21.019Z",
+            "modified": "2024-02-01T13:10:21.019Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"_id\": \"65bb968c66cca661dba03007\",\r\n  \"name\": \"Samsung Galaxy S21 Ultra\",\r\n  \"description\": \"Android smartphone with 108MP camera     THIS IS THE UPDAATED DESCRIPTION  \",\r\n  \"price\": 1199.99,\r\n  \"variants\": [\r\n    {\r\n      \"name\": \"128GB\",\r\n      \"sku\": \"SGS21U-128GB\",\r\n      \"additionalCost\": 0,\r\n      \"stockCount\": 20,\r\n      \"_id\": \"65bb968c66cca661dba03008\"\r\n    },\r\n    {\r\n      \"name\": \"256GB\",\r\n      \"sku\": \"SGS21U-256GB\",\r\n      \"additionalCost\": 100,\r\n      \"stockCount\": 90,\r\n      \"_id\": \"65bb968c66cca661dba03009\"\r\n    }\r\n  ],\r\n  \"__v\": 0\r\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "bad7002d-8bdf-4b19-a8ca-3bbcf186daf0",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/",
+            "url": "http://localhost:3000/products/",
+            "method": "GET",
+            "sortNum": 140000,
+            "created": "2024-02-01T14:10:35.189Z",
+            "modified": "2024-02-01T14:10:35.189Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"_id\": \"65bb968c66cca661dba03007\",\r\n  \"name\": \"Samsung Galaxy S21 Ultra\",\r\n  \"description\": \"Android smartphone with 108MP camera     THIS IS THE UPDAATED DESCRIPTION  \",\r\n  \"price\": 1199.99,\r\n  \"variants\": [\r\n    {\r\n      \"name\": \"128GB\",\r\n      \"sku\": \"SGS21U-128GB\",\r\n      \"additionalCost\": 0,\r\n      \"stockCount\": 20,\r\n      \"_id\": \"65bb968c66cca661dba03008\"\r\n    },\r\n    {\r\n      \"name\": \"256GB\",\r\n      \"sku\": \"SGS21U-256GB\",\r\n      \"additionalCost\": 100,\r\n      \"stockCount\": 90,\r\n      \"_id\": \"65bb968c66cca661dba03009\"\r\n    }\r\n  ],\r\n  \"__v\": 0\r\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "23362659-0ddf-4fb5-b560-aa9f9ffe0cfb",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/",
+            "url": "http://localhost:3000/products/",
+            "method": "GET",
+            "sortNum": 150000,
+            "created": "2024-02-01T14:18:00.124Z",
+            "modified": "2024-02-01T14:18:00.124Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "[\r\n  {\r\n    \"name\": \"LEGO Star Wars Millennium Falcon\",\r\n    \"description\": \"Iconic LEGO Star Wars set featuring the Millennium Falcon.\",\r\n    \"price\": 159.99,\r\n    \"variants\": [\r\n      {\r\n        \"name\": \"Standard Edition\",\r\n        \"sku\": \"LEGO-SW-FALCON-STD\",\r\n        \"additionalCost\": 0,\r\n        \"stockCount\": 100\r\n      },\r\n      {\r\n        \"name\": \"Deluxe Edition with Minifigures\",\r\n        \"sku\": \"LEGO-SW-FALCON-DLX\",\r\n        \"additionalCost\": 50,\r\n        \"stockCount\": 50\r\n      }\r\n    ]\r\n  }\r\n]\r\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "923fb23a-19de-4c4f-86c8-18dae51382c3",
+            "colId": "5dfccf77-3e79-49cd-bbf6-989ba53edc2d",
+            "containerId": "",
+            "name": "http://localhost:3000/products/",
+            "url": "http://localhost:3000/products/",
+            "method": "GET",
+            "sortNum": 160000,
+            "created": "2024-02-01T14:19:51.285Z",
+            "modified": "2024-02-01T14:19:51.285Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "[\r\n  {\r\n    \"name\": \"LEGO Star Wars Millennium Falcon\",\r\n    \"description\": \"Iconic LEGO Star Wars set featuring the Millennium Falcon.\",\r\n    \"price\": 159.99,\r\n    \"variants\": [\r\n      {\r\n        \"name\": \"Standard Edition\",\r\n        \"sku\": \"LEGO-SW-FALCON-STD\",\r\n        \"additionalCost\": 0,\r\n        \"stockCount\": 100\r\n      },\r\n      {\r\n        \"name\": \"Deluxe Edition with Minifigures\",\r\n        \"sku\": \"LEGO-SW-FALCON-DLX\",\r\n        \"additionalCost\": 50,\r\n        \"stockCount\": 50\r\n      }\r\n    ]\r\n  }\r\n]\r\n",
+                "form": []
+            },
+            "tests": []
+        }
+    ]
+}
