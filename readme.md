@@ -7,7 +7,7 @@ This project implements a RESTful API for an e-commerce system using Node.js and
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ggnDeep00/E-Commerce-REST-API
     cd <repository-folder>
     ```
 
